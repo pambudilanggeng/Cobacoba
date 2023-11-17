@@ -23,7 +23,7 @@ with tab1:
 
 with tab2:
 	st.header("Tab 2")
-	st.image("https://drive.google.com/file/d/1h0hYrirIc0io62PT3H1BcV6W842WooeE/view")
+	st.image("https://1drv.ms/i/s!AlAO-PvpB-4ygUqG2eyhK1WxyeE1?e=HvKckM")
 
 with tab3:
 	st.header("Tab 3")
