@@ -13,7 +13,7 @@ st.caption('Copyright 2023')
 
 with st.sidebar:
 
-st.text('Daftar isi')
+	st.text('Daftar isi')
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Tab1", "Tab2", "Tab3", "Tab4", "Tab5", "Tab6", "Tab7"])
 
