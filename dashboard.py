@@ -19,7 +19,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Tab1", "Tab2", "Tab3", "Tab
 
 with tab1:
 	st.header("Tab 1")
-	st.image("https://asset.kompas.com/crops/omxM17lGj0pcdrwKaY_6V2zHs2s=/193x48:770x433/750x500/data/photo/2019/12/21/5dfd6dab1565d.jpg")
+	st.image("https://64.media.tumblr.com/2424478e8c404343623e86acf6f5d340/19061dfaaa1325ce-80/s2048x3072/b352d9e15326d4ea7228310463bf1c468779c03d.pnj")
 
 with tab2:
 	st.header("Tab 2")
